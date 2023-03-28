@@ -22,15 +22,15 @@
 |                                           What is a primitive data type?                                           |  [Arrays & Callbacks](https://github.com/pursuit-curriculum/unit-dsa/tree/main/arrays-and-callbacks)  |
 |                                         Is an array a primitive data type?                                         |  [Arrays & Callbacks](https://github.com/pursuit-curriculum/unit-dsa/tree/main/arrays-and-callbacks)  |
 |            What is the difference between: `for (let i = 0; i < 5; i++)` and `for (i = 0; i < 5; i++ )`            |  [Arrays & Callbacks](https://github.com/pursuit-curriculum/unit-dsa/tree/main/arrays-and-callbacks)  |
-|                                          What is a higher order function?                                          | Working with Objects |
-|                                            What is a callback function?                                            | Working with Objects |
-|                              What is the spread/rest `...` operator? What does it do?                              |        Big O         |
-|                                               Code block, see below                                                |        Big O         |
-|                                 What is the difference between `1000` and `1_000`?                                 |      Recursion       |
-|                                             What does `parseInt()` do?                                             |      Recursion       |
-|                                            What does `parseFloat()` do?                                            |      Recursion       |
-|                                              What does `Number()` do?                                              |      Recursion       |
-|                                              What does `isNaN()` do?                                               |      Recursion       |
+|                                          What is a higher order function?                                          | [Working with Objects](https://github.com/9-1-pursuit/unit-dsa/tree/main/objects) |
+|                                            What is a callback function?                                            | [Working with Objects](https://github.com/9-1-pursuit/unit-dsa/tree/main/objects)  |
+|                              What is the spread/rest `...` operator? What does it do?                              |        [Big O](https://github.com/9-1-pursuit/unit-dsa/tree/main/intro-to-big-o)         |
+|                                               Code block, see below                                                |        [Big O](https://github.com/9-1-pursuit/unit-dsa/tree/main/intro-to-big-o)                |
+|                                 What is the difference between `1000` and `1_000`?                                 |      [Recursion](https://github.com/9-1-pursuit/unit-dsa/tree/main/intro-to-recursion)       |
+|                                             What does `parseInt()` do?                                             |      https://github.com/9-1-pursuit/unit-dsa/tree/main/intro-to-recursion       |
+|                                            What does `parseFloat()` do?                                            |      https://github.com/9-1-pursuit/unit-dsa/tree/main/intro-to-recursion       |
+|                                              What does `Number()` do?                                              |      https://github.com/9-1-pursuit/unit-dsa/tree/main/intro-to-recursion       |
+|                                              What does `isNaN()` do?                                               |      https://github.com/9-1-pursuit/unit-dsa/tree/main/intro-to-recursion       |
 | In JavaScript `?.` is the symbol for optional chaining. What is optional chaining and where/when would you use it? |         OOP          |
 |                                               Code block, see below                                                |         OOP          |
 |                         In JavaScript, what does the keyword static inside of a class do?                          |        OOP 2         |

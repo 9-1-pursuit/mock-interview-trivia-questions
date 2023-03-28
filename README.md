@@ -27,10 +27,10 @@
 |                              What is the spread/rest `...` operator? What does it do?                              |        [Big O](https://github.com/9-1-pursuit/unit-dsa/tree/main/intro-to-big-o)         |
 |                                               Code block, see below                                                |        [Big O](https://github.com/9-1-pursuit/unit-dsa/tree/main/intro-to-big-o)                |
 |                                 What is the difference between `1000` and `1_000`?                                 |      [Recursion](https://github.com/9-1-pursuit/unit-dsa/tree/main/intro-to-recursion)       |
-|                                             What does `parseInt()` do?                                             |      https://github.com/9-1-pursuit/unit-dsa/tree/main/intro-to-recursion       |
-|                                            What does `parseFloat()` do?                                            |      https://github.com/9-1-pursuit/unit-dsa/tree/main/intro-to-recursion       |
-|                                              What does `Number()` do?                                              |      https://github.com/9-1-pursuit/unit-dsa/tree/main/intro-to-recursion       |
-|                                              What does `isNaN()` do?                                               |      https://github.com/9-1-pursuit/unit-dsa/tree/main/intro-to-recursion       |
+|                                             What does `parseInt()` do?                                             |      [Recursion](https://github.com/9-1-pursuit/unit-dsa/tree/main/intro-to-recursion)      |
+|                                            What does `parseFloat()` do?                                            |      [Recursion](https://github.com/9-1-pursuit/unit-dsa/tree/main/intro-to-recursion)      |
+|                                              What does `Number()` do?                                              |      [Recursion](https://github.com/9-1-pursuit/unit-dsa/tree/main/intro-to-recursion)      |
+|                                              What does `isNaN()` do?                                               |      [Recursion](https://github.com/9-1-pursuit/unit-dsa/tree/main/intro-to-recursion)      |
 | In JavaScript `?.` is the symbol for optional chaining. What is optional chaining and where/when would you use it? |         OOP          |
 |                                               Code block, see below                                                |         OOP          |
 |                         In JavaScript, what does the keyword static inside of a class do?                          |        OOP 2         |

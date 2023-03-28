@@ -31,8 +31,8 @@
 |                                            What does `parseFloat()` do?                                            |      [Recursion](https://github.com/9-1-pursuit/unit-dsa/tree/main/intro-to-recursion)      |
 |                                              What does `Number()` do?                                              |      [Recursion](https://github.com/9-1-pursuit/unit-dsa/tree/main/intro-to-recursion)      |
 |                                              What does `isNaN()` do?                                               |      [Recursion](https://github.com/9-1-pursuit/unit-dsa/tree/main/intro-to-recursion)      |
-| In JavaScript `?.` is the symbol for optional chaining. What is optional chaining and where/when would you use it? |         OOP          |
-|                                               Code block, see below                                                |         OOP          |
+| In JavaScript `?.` is the symbol for optional chaining. What is optional chaining and where/when would you use it? |         [OOP](https://github.com/9-1-pursuit/unit-dsa/tree/main/intro-to-oop)          |
+|                                               Code block, see below                                                |         [OOP](https://github.com/9-1-pursuit/unit-dsa/tree/main/intro-to-oop)          |
 |                         In JavaScript, what does the keyword static inside of a class do?                          |        OOP 2         |
 |                          Why would we use the keyword static? What problem does it solve?                          |        OOP 2         |
 |                                             none - pre-reading instead                                             |     Linked Lists     |

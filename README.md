@@ -13,11 +13,11 @@
 |                          Is `'McDonalds' > 'Burger King'` - true, false or an error? Why?                           |   [Strings & RegEx](https://github.com/9-1-pursuit/unit-dsa/tree/main/strings)    |
 |             What are the differences between a single quote, double quote, smart quote, and backtick?              |   [Strings & RegEx](https://github.com/9-1-pursuit/unit-dsa/tree/main/strings)      |
 |                              What is the difference between `a` and `'a'` in JavaScript?                               |   [Strings & RegEx](https://github.com/9-1-pursuit/unit-dsa/tree/main/strings)      |
-|                  What is the difference between a function declaration and a function expression?                  |        Errors        |
-|                    What is one difference between an arrow function and a function declaration?                    |        Errors        |
-|                                Can a function expression be an anonymous function?                                 |        Errors        |
-|                                Can a function declaration be an anonymous function?                                |        Errors        |
-|                        Is an arrow function a function declaration or function expression?                         |        Errors        |
+|                  What is the difference between a function declaration and a function expression?                  |        [Errors](https://github.com/9-1-pursuit/unit-dsa/tree/main/dealing-w-errors)        |
+|                    What is one difference between an arrow function and a function declaration?                    |        [Errors](https://github.com/9-1-pursuit/unit-dsa/tree/main/dealing-w-errors)        |
+|                                Can a function expression be an anonymous function?                                 |        [Errors](https://github.com/9-1-pursuit/unit-dsa/tree/main/dealing-w-errors)        |
+|                                Can a function declaration be an anonymous function?                                |        [Errors](https://github.com/9-1-pursuit/unit-dsa/tree/main/dealing-w-errors)        |
+|                        Is an arrow function a function declaration or function expression?                         |        [Errors](https://github.com/9-1-pursuit/unit-dsa/tree/main/dealing-w-errors)        |
 |                                What is the first index position of an array in JS?                                 |  [Arrays & Callbacks](https://github.com/pursuit-curriculum/unit-dsa/tree/main/arrays-and-callbacks)  |
 |                                           What is a primitive data type?                                           |  [Arrays & Callbacks](https://github.com/pursuit-curriculum/unit-dsa/tree/main/arrays-and-callbacks)  |
 |                                         Is an array a primitive data type?                                         |  [Arrays & Callbacks](https://github.com/pursuit-curriculum/unit-dsa/tree/main/arrays-and-callbacks)  |

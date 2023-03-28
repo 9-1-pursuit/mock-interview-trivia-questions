@@ -2,11 +2,11 @@
 
 |                                                      Question                                                      |  Associated Lesson   |
 | :----------------------------------------------------------------------------------------------------------------: | :------------------: |
-|                           What is the difference between an parameter and and argument?                            |     Control Flow     |
-|                              What is the difference between `var`, `const`, and `let`                              |     Control Flow     |
-|                   Within a function, what is the difference between `return` and `console.log()`                   |     Control Flow     |
-|                                               Code block, see below                                                |     Control Flow     |
-|                                               Code block, see below                                                |     Control Flow     |
+|                           What is the difference between an parameter and and argument?                            |     [Control Flow](https://github.com/9-1-pursuit/unit-dsa/tree/main/control-flow)     |
+|                              What is the difference between `var`, `const`, and `let`                              |     [Control Flow](https://github.com/9-1-pursuit/unit-dsa/tree/main/control-flow)       |
+|                   Within a function, what is the difference between `return` and `console.log()`                   |     [Control Flow](https://github.com/9-1-pursuit/unit-dsa/tree/main/control-flow)       |
+|                                               Code block, see below                                                |     [Control Flow](https://github.com/9-1-pursuit/unit-dsa/tree/main/control-flow)       |
+|                                               Code block, see below                                                |     [Control Flow](https://github.com/9-1-pursuit/unit-dsa/tree/main/control-flow)       |
 |                                What is the difference between `=`, `==`, and `===`                                 |         Math         |
 |                                                   What is `NaN`?                                                   |         Math         |
 |                                        Is `NaN == NaN` true or false, why?                                         |         Math         |

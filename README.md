@@ -10,9 +10,9 @@
 |                                What is the difference between `=`, `==`, and `===`                                 |         [Math](https://github.com/9-1-pursuit/unit-dsa/tree/main/math-for-devs)    |
 |                                                   What is `NaN`?                                                   |         [Math](https://github.com/9-1-pursuit/unit-dsa/tree/main/math-for-devs)              |
 |                                        Is `NaN == NaN` true or false, why?                                         |         [Math](https://github.com/9-1-pursuit/unit-dsa/tree/main/math-for-devs)              |
-|                          Is `'McDonalds' > 'Burger King'` - true, false or an error? Why?                           |   Strings & RegEx    |
-|             What are the differences between a single quote, double quote, smart quote, and backtick?              |   Strings & RegEx    |
-|                              What is the difference between `a` and `'a'` in JavaScript?                               |   Strings & Regex    |
+|                          Is `'McDonalds' > 'Burger King'` - true, false or an error? Why?                           |   [Strings & RegEx](https://github.com/9-1-pursuit/unit-dsa/tree/main/strings)    |
+|             What are the differences between a single quote, double quote, smart quote, and backtick?              |   [Strings & RegEx](https://github.com/9-1-pursuit/unit-dsa/tree/main/strings)      |
+|                              What is the difference between `a` and `'a'` in JavaScript?                               |   [Strings & RegEx](https://github.com/9-1-pursuit/unit-dsa/tree/main/strings)      |
 |                  What is the difference between a function declaration and a function expression?                  |        Errors        |
 |                    What is one difference between an arrow function and a function declaration?                    |        Errors        |
 |                                Can a function expression be an anonymous function?                                 |        Errors        |

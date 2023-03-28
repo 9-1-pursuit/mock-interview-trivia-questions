@@ -35,12 +35,8 @@
 |                                               Code block, see below                                                |         [OOP](https://github.com/9-1-pursuit/unit-dsa/tree/main/intro-to-oop)          |
 |                         In JavaScript, what does the keyword static inside of a class do?                          |        [OOP 2](https://github.com/9-1-pursuit/unit-dsa/tree/main/intro-to-oop-inheritance)         |
 |                          Why would we use the keyword static? What problem does it solve?                          |        [OOP 2](https://github.com/9-1-pursuit/unit-dsa/tree/main/intro-to-oop-inheritance)         |
-|                                             none - pre-reading instead                                             |     [Linked Lists](https://github.com/9-1-pursuit/unit-dsa/tree/main/intro-to-linked-lists)     |
-|                                             none - pre-reading instead                                             |   [Stacks & Queues](https://github.com/9-1-pursuit/unit-dsa/tree/main/intro-to-stacks-and-queues)    |
-|                                             none - pre-reading instead                                             |        [Trees](https://github.com/9-1-pursuit/unit-dsa/tree/main/intro-to-trees)         |
 |                                               Code block, see below                                                |  [searching algos 1](https://github.com/9-1-pursuit/unit-dsa/tree/main/sorting-algorithms-bubble)   |
 |                                               Code block, see below                                                |  [searching algos 1](https://github.com/9-1-pursuit/unit-dsa/tree/main/sorting-algorithms-bubble)   |
-|                                                                                                                    |  [searching algos 1](https://github.com/9-1-pursuit/unit-dsa/tree/main/sorting-algorithms-bubble)   |
 |  if `const` declares a constant variable, why can you declare an array and still add/change and delete elements?   |  [searching algos 2](https://github.com/9-1-pursuit/unit-dsa/tree/main/sorting-algorithms-merge)    |
 
 

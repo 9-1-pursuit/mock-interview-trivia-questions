@@ -42,10 +42,7 @@
 |                                               Code block, see below                                                |  [searching algos 1](https://github.com/9-1-pursuit/unit-dsa/tree/main/sorting-algorithms-bubble)   |
 |                                                                                                                    |  [searching algos 1](https://github.com/9-1-pursuit/unit-dsa/tree/main/sorting-algorithms-bubble)   |
 |  if `const` declares a constant variable, why can you declare an array and still add/change and delete elements?   |  [searching algos 2](https://github.com/9-1-pursuit/unit-dsa/tree/main/sorting-algorithms-merge)    |
-|                                                     Code block, see blow                                           |  [searching algos 2](https://github.com/9-1-pursuit/unit-dsa/tree/main/sorting-algorithms-merge)   |
-|                                                                                                                    |  [searching algos 2](https://github.com/9-1-pursuit/unit-dsa/tree/main/sorting-algorithms-merge)   |
-|                                                                                                                    |     [hash tables](https://github.com/9-1-pursuit/unit-dsa/tree/main/intro-to-hash-tables)      |
-|                                                                                                                    |     [hash tables](https://github.com/9-1-pursuit/unit-dsa/tree/main/intro-to-hash-tables)      |
+
 
 ## Evaluate Code Block:
 

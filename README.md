@@ -18,9 +18,9 @@
 |                                Can a function expression be an anonymous function?                                 |        Errors        |
 |                                Can a function declaration be an anonymous function?                                |        Errors        |
 |                        Is an arrow function a function declaration or function expression?                         |        Errors        |
-|                                What is the first index position of an array in JS?                                 |  Arrays & Callbacks  |
-|                                           What is a primitive data type?                                           |  Arrays & Callbacks  |
-|                                         Is an array a primitive data type?                                         |  Arrays & Callbacks  |
+|                                What is the first index position of an array in JS?                                 |  [Arrays & Callbacks](https://github.com/pursuit-curriculum/unit-dsa/tree/main/arrays-and-callbacks)  |
+|                                           What is a primitive data type?                                           |  [Arrays & Callbacks](https://github.com/pursuit-curriculum/unit-dsa/tree/main/arrays-and-callbacks)  |
+|                                         Is an array a primitive data type?                                         |  [Arrays & Callbacks](https://github.com/pursuit-curriculum/unit-dsa/tree/main/arrays-and-callbacks)  |
 |            What is the difference between: `for (let i = 0; i < 5; i++)` and `for (i = 0; i < 5; i++ )`            |  Arrays & Callbacks  |
 |                                          What is a higher order function?                                          | Working with Objects |
 |                                            What is a callback function?                                            | Working with Objects |
